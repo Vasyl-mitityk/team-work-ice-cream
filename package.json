@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "name": "team-work-ice-cream",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "src/index.html",
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vasyl-mitityk/team-work-ice-cream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vasyl-mitityk/team-work-ice-cream/issues"
+  },
+  "homepage": "https://github.com/Vasyl-mitityk/team-work-ice-cream#readme",
+  "description": ""
+}
